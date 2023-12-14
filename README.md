@@ -1,6 +1,5 @@
 <h1 align="center">React JS To-do-list App 📝</a> 
 
-<hr>
 
 <h3>Description</h3>
 <hr>
