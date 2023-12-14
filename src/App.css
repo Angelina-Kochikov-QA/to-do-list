@@ -1,38 +1,96 @@
-.App {
-  text-align: center;
+body {
+  background-image: url(background.jpg);
+  background-position: center;
+  background-size: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.app {
+  background-color: rgb(247, 245, 242);
+  min-height: 80vh;
+  width: 400px;
+  margin: 70px auto;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.crossed {
+
+  text-decoration: line-through 2px rgb(83, 32, 110);
+  background-color: #f0f0f0;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  margin: 0;
+  font-family: 'Comfortaa', sans-serif;
+
+}
+
+h1 {
+  font-family: 'Comfortaa', sans-serif;
+  background: -webkit-linear-gradient(#b936dd, rgb(72, 198, 240));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+.container {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+}
+
+.btn-add {
+
+  background: rgb(100, 185, 246);
+  margin-top: 5px;
+  padding: 10px;
+  border: none;
+  width: 70%;
   color: white;
+  font-size: 16px;
+  font-family: 'Comfortaa', sans-serif;
+  box-shadow:0 0 4px rgba(60, 60, 60, 0.5);
+  border-radius:10px;
+
 }
 
-.App-link {
-  color: #61dafb;
+.btn-delete {
+  background: #f15df9;
+  margin-bottom: 5px;
+  padding: 10px;
+  border: none;
+  width: 70%;
+  color: white;
+  font-size: 16px;
+  font-family: 'Comfortaa', sans-serif;
+  box-shadow:0 0 4px rgba(60, 60, 60, 0.5);
+  border-radius:10px;
+  
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-delete:hover {
+  background-color: #cc4ad3;
+}
+
+.btn-add:hover {
+  background-color: rgb(8, 200, 254);
+}
+
+input {
+  width: 80%;
+  border: 1px solid #9f9e9e;
+  border-radius:10px;
+  padding: 15px;
+  margin: 10px;
+  font-family: 'Comfortaa', sans-serif;
+}
+
+input:hover {
+  box-shadow:0 0 4px rgba(135, 135, 135, 0.5);
+}
+
+input:focus {
+  outline-color: #f29df7;
+
 }
