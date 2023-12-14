@@ -1,4 +1,4 @@
-<h1 align="center">To-do-list App</a> 
+<h1 align="center">To-do-list app 📝</a> 
 
 <hr>
 
