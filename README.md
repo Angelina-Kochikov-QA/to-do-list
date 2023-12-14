@@ -1,5 +1,9 @@
-<h1 align="center">To-do-list app 📝</a> 
+<h1 align="center">React JS To-do-list App 📝</a> 
 
 <hr>
 
 <h3>Description</h3>
+<hr>
+
+<p>A simple and efficient To-Do List application built with React.js, designed to help users organize their tasks effectively.
+
