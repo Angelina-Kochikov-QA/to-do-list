@@ -17,10 +17,7 @@
 ## Features
 
 - **Add Tasks:** Easily add new tasks to your to-do list.
-- **Mark as Completed:** Mark tasks as completed once finished.
 - **Delete Tasks:** Remove unwanted tasks from your list.
-- **Filter Tasks:** Filter tasks based on their completion status (All, Active, Completed).
-- **LocalStorage:** Utilizes local storage to persist tasks even after a page reload.
 - **Responsive Design:** Works seamlessly on various screen sizes.
 
 ## Installation
