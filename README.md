@@ -29,3 +29,38 @@
 
    ```bash
    git clone https://github.com/your-username/react-todo-app.git
+
+2. Navigate to the project directory:
+
+cd react-todo-app
+
+3. Install dependencies:
+
+npm install
+
+## Usage
+
+1. Run the development server:
+
+npm start
+
+2. Open your browser and navigate to http://localhost:3000.
+
+3. Start managing your tasks with the To-Do List app!
+
+## Technologies Used
+
+<ul>
+   <li>React.js</li>
+   <li>HTML5</li>
+   <li>CSS3</li>
+   <li>JavaScript</li>
+</ul>
+
+
+
+
+
+
+
+
