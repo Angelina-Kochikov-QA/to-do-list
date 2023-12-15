@@ -25,15 +25,15 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/react-todo-app.git
+   git clone https://github.com/Angelina-Kochikov-QA/to-do-list.git
 
 2. Navigate to the project directory:
 
 cd to-do-list
 
-3. Install dependencies:
+3. Run this command:
 
-npm install
+code .
 
 ## Usage
 
