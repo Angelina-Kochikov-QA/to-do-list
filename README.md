@@ -29,7 +29,7 @@
 
 2. Navigate to the project directory:
 
-cd react-todo-app
+cd to-do-list
 
 3. Install dependencies:
 
