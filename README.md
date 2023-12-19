@@ -6,6 +6,9 @@
 
 <p>A simple and efficient To-Do List application built with React.js, designed to help users organize their tasks effectively.
 
+![image](https://github.com/Angelina-Kochikov-QA/to-do-list/assets/145532060/6d79fe07-e2c2-4ba5-b93c-a0f0cbf28259)
+
+
 ## Table of Contents
 
 - [Features](#features)
